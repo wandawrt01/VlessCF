@@ -1,11 +1,11 @@
-name = "wandawrt.us.kg"
+name = "vlesscf"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
-# node_compat = true
+node_compat = true
 workers_dev = true
 
 [vars]
-# PROXYIP = "35.219.50.99"
+PROXYIP = "203.194.112.119:2053"
 UUID = "6f703a17-7a36-406c-8d4e-0af34b39948e"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
